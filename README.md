@@ -9,4 +9,4 @@ Este es un repositorio inicial de Git
 
 ### Este repositorio también contiene la lista de compras de la semana
 
-
+En este repositprio está trabajando una persona externa 
